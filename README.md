@@ -1,5 +1,5 @@
 # character-generator
-Build a 2D character generator with Spring and Java as the backend and React Redux and Javascript as the frontend. 
+Build a 2D character generator with Spring and Java as the backend and React, Redux, and Javascript as the frontend. 
 
 ## Refer to UML:
 
